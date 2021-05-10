@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  color: white;
 }
 
 code {
@@ -12,16 +14,11 @@ code {
     monospace;
 }
 
-.ui.card.projects{
-  width: 100%;
-}
+
 .ui.card.projects a{
   font-size: 1.25rem;
 }
-.ui.card.about{
-  width:100%;
-  margin-top: 50px;
-}
+
 h3, h4{
   margin: 0;
 }
@@ -30,9 +27,35 @@ h1{
   font-size: 3rem;
 }
 
-.ui.card.contact{
-  width:100%;
-}
 h1.project{
   margin-top:50px;
+}
+
+.ui.card{
+  background-color: #555;
+  width:calc(100% - 2em);
+  margin: 2em 0em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+a{
+  color:white;
+}
+a:hover{
+  text-decoration: underline;
+  color: #ccc
+}
+a:hover .icon{
+  text-decoration: none;
+}
+
+.ui.grid>.row{
+  padding-left: 3em;
+  padding-right: 1em;;
+}
+
+.ui.grid>.row>.column {
+  padding-left: 0;
+  padding-right: 0;
 }
