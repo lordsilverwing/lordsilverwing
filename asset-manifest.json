@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/lordsilverwing/static/css/main.39faed48.chunk.css",
-    "main.js": "/lordsilverwing/static/js/main.59d091fb.chunk.js",
-    "main.js.map": "/lordsilverwing/static/js/main.59d091fb.chunk.js.map",
-    "runtime-main.js": "/lordsilverwing/static/js/runtime-main.f83d0599.js",
-    "runtime-main.js.map": "/lordsilverwing/static/js/runtime-main.f83d0599.js.map",
-    "static/css/2.f9916fe4.chunk.css": "/lordsilverwing/static/css/2.f9916fe4.chunk.css",
-    "static/js/2.4a9ee965.chunk.js": "/lordsilverwing/static/js/2.4a9ee965.chunk.js",
-    "static/js/2.4a9ee965.chunk.js.map": "/lordsilverwing/static/js/2.4a9ee965.chunk.js.map",
-    "static/js/3.f284e52b.chunk.js": "/lordsilverwing/static/js/3.f284e52b.chunk.js",
-    "static/js/3.f284e52b.chunk.js.map": "/lordsilverwing/static/js/3.f284e52b.chunk.js.map",
-    "index.html": "/lordsilverwing/index.html",
-    "static/css/2.f9916fe4.chunk.css.map": "/lordsilverwing/static/css/2.f9916fe4.chunk.css.map",
-    "static/css/main.39faed48.chunk.css.map": "/lordsilverwing/static/css/main.39faed48.chunk.css.map",
-    "static/js/2.4a9ee965.chunk.js.LICENSE.txt": "/lordsilverwing/static/js/2.4a9ee965.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/lordsilverwing/static/media/outline-icons.ddae9b1b.woff",
-    "static/media/resume-shane-peterson.e33e56a3.pdf": "/lordsilverwing/static/media/resume-shane-peterson.e33e56a3.pdf"
+    "main.css": "/portfolio/static/css/main.39faed48.chunk.css",
+    "main.js": "/portfolio/static/js/main.144dcc8d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.144dcc8d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f9b50166.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f9b50166.js.map",
+    "static/css/2.d121974b.chunk.css": "/portfolio/static/css/2.d121974b.chunk.css",
+    "static/js/2.4a9ee965.chunk.js": "/portfolio/static/js/2.4a9ee965.chunk.js",
+    "static/js/2.4a9ee965.chunk.js.map": "/portfolio/static/js/2.4a9ee965.chunk.js.map",
+    "static/js/3.f284e52b.chunk.js": "/portfolio/static/js/3.f284e52b.chunk.js",
+    "static/js/3.f284e52b.chunk.js.map": "/portfolio/static/js/3.f284e52b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.d121974b.chunk.css.map": "/portfolio/static/css/2.d121974b.chunk.css.map",
+    "static/css/main.39faed48.chunk.css.map": "/portfolio/static/css/main.39faed48.chunk.css.map",
+    "static/js/2.4a9ee965.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4a9ee965.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/portfolio/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/resume-shane-peterson.e33e56a3.pdf": "/portfolio/static/media/resume-shane-peterson.e33e56a3.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.f83d0599.js",
-    "static/css/2.f9916fe4.chunk.css",
+    "static/js/runtime-main.f9b50166.js",
+    "static/css/2.d121974b.chunk.css",
     "static/js/2.4a9ee965.chunk.js",
     "static/css/main.39faed48.chunk.css",
-    "static/js/main.59d091fb.chunk.js"
+    "static/js/main.144dcc8d.chunk.js"
   ]
 }
