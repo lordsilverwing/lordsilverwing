@@ -13,13 +13,13 @@ export default function About() {
                 <Grid columns={4}>
                     <Grid.Row>
                     <Grid.Column>
-                        <a href="mailto:shanespeterson36@gmail.com"><Icon name='mail' size='big'/></a><div>Email</div>
+                        <a href="mailto:shanespeterson36@gmail.com"><Icon name='mail' size='big'/><div>Email</div></a>
                     </Grid.Column><Grid.Column>
-                        <a href="https://www.linkedin.com/in/shane-s-peterson/" target="blank"><Icon name='linkedin alternate' size='big'/></a><div>Linkedin</div>
+                        <a href="https://www.linkedin.com/in/shane-s-peterson/" target="blank"><Icon name='linkedin alternate' size='big'/><div>Linkedin</div></a>
                     </Grid.Column><Grid.Column>
-                        <a href="https://github.com/lordsilverwing" target="blank"><Icon name= 'github square' size='big'/></a><div>Github</div>
+                        <a href="https://github.com/lordsilverwing" target="blank"><Icon name= 'github square' size='big'/><div>Github</div></a>
                     </Grid.Column><Grid.Column>
-                        <a href={pdf} target="blank"><Icon name='file' size='big'/></a><div>Resume</div>
+                        <a href={pdf} target="blank"><Icon name='file' size='big'/><div>Resume</div></a>
                     </Grid.Column>
                     </Grid.Row>
                  </Grid>
