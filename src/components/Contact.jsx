@@ -1,6 +1,6 @@
 import React from 'react'
 import {Card, Icon, Grid} from 'semantic-ui-react'
-import pdf from '../file/resume-shane-peterson.pdf'
+import pdf from '../file/Shane-Peterson-Resume.pdf'
 
 export default function About() {
     return(
