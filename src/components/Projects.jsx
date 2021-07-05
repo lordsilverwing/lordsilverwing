@@ -6,6 +6,13 @@ export default function About() {
     return(
     <>
         <Card className="projects">
+            <Card.Header><h2>PXI Delivery</h2></Card.Header>
+            <div>MERNstack, React, Node, Mongodb, and Google Maps API</div>
+            <Card.Content>
+                <Image src={process.env.PUBLIC_URL + '/images/pxijobs.png'} />
+            </Card.Content>
+        </Card>
+        <Card className="projects">
             <Card.Header><h2>Monster Finder</h2></Card.Header>
             <div>MERNstack, React, Express and D&D 5e Api</div>
             <Card.Content>
